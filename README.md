@@ -1,6 +1,8 @@
 # Portfolio-yandex-bootcamp
 Projects portfolio from the Yandex data bootcamp.
 
+Contains 14 projects from different business domains, which exhibit machine learning, data collection & processing, descriptive & inferential statistical analysis, visualization, and producing actionable insights.
+
 ## (1) Loan defaulting risk analysis
 In this project I will analyze the risk that a customer of a bank will default on a loan. The report will assist the loans devision of the bank in creating the credit scores of new potential customers, which are used to evaluate a borrower's ability to repay loans.
 
@@ -51,21 +53,21 @@ The main steps will be:
 - Testing hypotheses regarding the difference between the average user ratings of the Xbox One and PC platforms, and of the Action and Sports genres.
 - Summarizing the overall findings and producing business insights.
 
-## (5) Taxi rides analysis
-
-In this project I will analyze taxi rides for Zuber, a new ride-sharing company that's launching in Chicago.
-
-The data is composed of 4 tables, with information on the rides, the cabs, the neighborhoods and the weather conditions. These are parsed from the web and collected via SQL queries.
-
-The main goal is to understand passenger preferences and the impact of external factors on rides. In particular, after collecting the data and some exploratory data analysis, I test the hypothesis that the duration of rides from the Loop to O'Hare International Airport changes on rainy Sundays.
-
-## (6) Taxi transportation querying
+## (5) Taxi transportation querying
 
 In this project I query a database with data on taxi rides in Chicago.
 
 The database contains 4 tables, with information on the rides, the cabs, the neighborhoods and the weather conditions.
 
 The goal is to understand passenger preferences and the impact of external factors on rides. In particular, after a few queries for exploratory data analysis, I test the hypothesis that the duration of rides from the the Loop to O'Hare International Airport changes on rainy Sundays.
+
+## (6) Taxi rides analysis
+
+In this project I will analyze taxi rides for Zuber, a new ride-sharing company that's launching in Chicago.
+
+The data is composed of 4 tables, with information on the rides, the cabs, the neighborhoods and the weather conditions. These are parsed from the web and collected via SQL queries.
+
+The main goal is to understand passenger preferences and the impact of external factors on rides. In particular, after collecting the data and some exploratory data analysis, I test the hypothesis that the duration of rides from the Loop to O'Hare International Airport changes on rainy Sundays.
 
 ## (7) Marketing expenses analysis
 
@@ -166,7 +168,7 @@ The main steps of the project will be:
 - Analyzing the data to extract useful information.
 - Drawing conclusions and formulating recommendations.
 
-## (13) A/B testing for an online store
+## (13) A/B testing a recommendation system
 
 In this project I will research the effects of adding a new product recommendation system to an online store using an A/B test.
 
