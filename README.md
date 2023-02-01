@@ -1,2 +1,2 @@
-# portfolio-yandex-bootcamp
+# Portfolio-yandex-bootcamp
 Projects portfolio from Yandex data bootcamp
