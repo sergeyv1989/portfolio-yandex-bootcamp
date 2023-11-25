@@ -1,4 +1,4 @@
-# yandex-data-bootcamp-portfolio
+# Yandex data bootcamp portfolio
 Projects portfolio from the Yandex data bootcamp.
 
 Contains 14 projects from different business domains, which exhibit machine learning, data collection & processing, descriptive & inferential statistical analysis, visualization, and producing actionable insights.
